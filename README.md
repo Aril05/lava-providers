@@ -1,3 +1,4 @@
+welcome blockchain
 This repository contains `sdkSeedProviders.json`, a resource for [Lava Access SDK]([https://github.com/lavanet/lava-sdk](https://github.com/lavanet/lava-sdk)) to discover the first providers to connect to access initial Pairing data. 
 
 Inspired by common Seed nodes solutions (like Ethereum’s [Bootnodes]([https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go](https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go))), the Lava network uses the json to offer a decentralized solution for connecting new consumers to the network through provider nodes, enabling accurate data and reliability.
